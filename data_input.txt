@@ -1,0 +1,26 @@
+#M Chalet
+
+
+#B Kitchen
+
+# Defenders #
+
+
+# Attackers #
+
+
+#B Basement
+
+# Attackers #
+
+
+# Defenders #
+
+
+#B Master Bedroom
+
+# Attackers #
+
+
+
+# Defenders #
